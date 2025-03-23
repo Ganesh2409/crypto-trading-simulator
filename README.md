@@ -35,9 +35,9 @@ A Node.js application that fetches live cryptocurrency prices, computes Simple M
 ```
 
 2. Install dependencies:
-   ```bash
+```bash
    npm install
-   ```
+```
 
 ## Running the Application
 ```bash
