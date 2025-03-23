@@ -1,5 +1,3 @@
-
-```markdown
 # Crypto Trading Simulator
 
 A Node.js application that fetches live cryptocurrency prices, computes Simple Moving Averages (SMAs), and simulates trades based on SMA crossovers. Built with efficiency in mind using circular buffers.
@@ -84,7 +82,7 @@ To test without waiting for real-time data:
 - Focuses on **Bitcoin** (`bitcoin`), but you can change `CRYPTO_ID` in `src/index.js`.
 - Polling interval is set to **1 minute** to avoid hitting API rate limits.
 - Simulated trades use a fixed quantity of **1 unit** for simplicity.
-```
+
 ## Design Decisions
 
 ### 1. **API Integration**
